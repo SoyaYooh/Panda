@@ -139,13 +139,12 @@
  - 最后启动`panda-gateway` 网关
  - 然后启动前台工程  `npm run dev / yarn run dev`就可以
 
-[panda-admin前台工程地址](https://github.com/YuKongEr/panda-admin)
 
 
 
-目前完成 基础权限模块，接下来会完善动态路由界面可视化配置，与个人中心模块。
+
+。
 
 
 
-我的公众号希望大家关注 所有的学习文章第一时间分享在公众号
-![程序咖啡厅](https://upload-images.jianshu.io/upload_images/5338436-e69222d4fc2e8740.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
+
